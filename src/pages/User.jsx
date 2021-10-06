@@ -40,7 +40,7 @@ const User = () => {
                         Full name: {ade.first_name} {ade.last_name} {""}
                      </p>
                     <p>Email: {ade.email} </p>
-
+                        reactrouter
                 </div>
             )};
 
